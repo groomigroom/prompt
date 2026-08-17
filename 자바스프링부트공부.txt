@@ -1,0 +1,1 @@
+@EntityListeners(AuditingEntitiyListener.class) 이게 자바 스프링부트에서 의미하는 것과 사용하려면 필요한 start dependency?
