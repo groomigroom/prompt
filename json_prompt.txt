@@ -1,0 +1,42 @@
+{
+  "image_description": "어두운 색상의 긴 우산들이 닫힌 상태와 펼쳐진 상태로 배열되어 있는 제품 사진입니다. 우산의 특징은 16K (16개 살대) 구조와 나무 손잡이입니다.",
+  "products": [
+    {
+      "product_type": "장우산 (Long Umbrella)",
+      "umbrella_ribs": "16K (16개 살대)",
+      "handle_material": "나무 (Wood)",
+      "handle_color": "밝은 갈색/우드톤",
+      "closed_view": {
+        "arrangement": "수직으로 나란히 정렬",
+        "quantity": 4,
+        "colors": [
+          "갈색 (Brown)",
+          "짙은 회색 (Dark Gray)",
+          "회색/연두색 (Gray/Light Green or Sage)",
+          "청록색/녹색 (Teal/Green)"
+        ],
+        "brand_logo": "Mincho (모든 색상 우산 커버에 세로로 인쇄됨)",
+        "details": "손잡이 끝에 매달 수 있는 끈이 있음"
+      },
+      "open_view": {
+        "quantity": 1,
+        "color": "민트색 (Mint)",
+        "rib_count_visual_check": "16개의 접힌 면이 명확하게 보임",
+        "shape": "대형 원형",
+        "texture": "무광 또는 약한 광택의 방수 재질"
+      }
+    }
+  ],
+  "contextual_info": {
+    "price_korean_won": "9,000원",
+    "filename_context": "16k우드핸들 9.000원.jpg",
+    "style": "클래식하고 견고한 디자인"
+  },
+  "prompt_keywords": [
+    "16K 우산",
+    "나무 손잡이 장우산",
+    "MEORU 우산",
+    "민트색 우산 펼친 모습",
+    "다양한 색상의 우산 닫힌 모습",
+    "견고한 우산 디자인"
+  ]
